@@ -1,7 +1,7 @@
-﻿scoop install jpegview vlc mpv notepadplusplus ungoogled-chromium sumatrapdf
+﻿scoop install jpegview vlc mpv notepadplusplus ungoogled-chromium sumatrapdf doublecmd
 # neovim youtube-dl youtube-dl-gui keepassxc pwsafe speedcrunch kdiff3
 # nodejs-lts brave python brackets sqlite dark lessmsi 
-# mp3tag mpv.net vivaldi vscode geany vscodium inkscape musicbee 
+# mp3tag mpv.net vivaldi vscode geany vscodium inkscape musicbee winyl qalculate
 
 #install the ungoogled-chromium extensions at ~/.chromium
 
